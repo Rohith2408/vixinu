@@ -114,8 +114,8 @@
     }
 
     .banner{
-        height: 60px;
-        top: -30px;
+        height:20px;
+        top: -10px;
     }
 
   }
@@ -148,8 +148,8 @@
     }
 
     .banner{
-        height: 80px;
-        top: -40px;
+        height:40px;
+        top: -20px;
     }
 
   }
@@ -182,8 +182,8 @@
     }
 
     .banner{
-        height: 100px;
-        top: -50px;
+        height:80px;
+        top: -40px;
     }
 
   }
@@ -220,8 +220,8 @@
     }
 
     .banner{
-        height: 150px;
-        top: -75px;
+        height:110px;
+        top: -55px;
     }
 
   }
