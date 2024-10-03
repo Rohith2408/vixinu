@@ -55,7 +55,7 @@ const Section1=()=>{
                         <button className={styles.copyWrapper} onClick={()=>{alert("CA has been copied");navigator.clipboard.writeText(ca)}}><img className={styles.copyIcon} src={copy_icon}></img></button>
                     </div>
                 </div>
-                <img src={image}  className={styles.penguin}/>
+                <img className={styles.penguin}/>
             </div>
         </section>
     )
