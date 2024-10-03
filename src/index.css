@@ -5,6 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --font-samarkan:"Samarkan";
+  --font-bbt:"Bbt";
+}
+
+@font-face {
+  font-family: "Samarkan";
+  src: url("/public/Samarkan.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Bbt";
+  src: url("/public/Bbt.ttf");
+  font-weight: 400;
 }
 
 code {
