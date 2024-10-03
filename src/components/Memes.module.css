@@ -86,8 +86,8 @@
   @media screen and (max-width:500px) {
 
     .mainwrapper{
-        max-height:550px;
-        min-height:500px;
+        max-height:800px;
+        min-height:750px;
     }
 
     .body{
@@ -100,7 +100,7 @@
     }
 
     .imageswrapper{
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
         gap: 10px;
     }
     
