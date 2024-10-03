@@ -1,5 +1,5 @@
 import styles from "./About.module.css";
-import image from '../images/About/image.png'
+import image from '../images/About/image.gif'
 import banner from '../images/banner.gif'
 
 const About=()=>{

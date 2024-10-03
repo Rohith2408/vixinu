@@ -155,7 +155,7 @@
     }
 
     .penguin{
-        content: url('../images/Section1/image2.png');
+        content: url('../images/Section1/image2.gif');
         bottom:-24%;
         height:350px;
         object-fit: contain;
@@ -217,7 +217,7 @@
     }
 
     .penguin{
-        content: url('../images/Section1/image2.png');
+        content: url('../images/Section1/image2.gif');
         bottom:-30%;
         height:650px;
         object-fit: contain;
@@ -278,7 +278,7 @@
     }
 
     .penguin{
-        content: url('../images/Section1/image.png');
+        content: url('../images/Section1/image.gif');
         bottom:-40%;
         height:850px;
         object-fit: contain;
@@ -345,7 +345,7 @@
     }
 
     .penguin{
-        content: url('../images/Section1/image.png');
+        content: url('../images/Section1/image.gif');
         bottom:-40%;
         height:1000px;
         object-fit: contain;
