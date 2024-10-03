@@ -15,16 +15,16 @@ import insta_icon from '../images/Section1/instagram.png'
 const Section1=()=>{
 
     const socialIcons= useRef([
-        { src: telegram_icon, link: "https://t.me/ppponsolana" },
-        { src: twitter_icon, link: "https://x.com/ppp_on_solana" },
+        { src: telegram_icon, link: "" },
+        { src: twitter_icon, link: "" },
         { src:dex_icon, link: "" },
-        { src: dextools_icon, link: "https://www.dextools.io/app/en/solana/pair-explorer/7jeRDZ3NYUJty7XPm8sAm6Pa3JsL1ZsdpPHXjpPbZ3UF?t=1727212632525" },
-        { src:coingecko_icon, link: "https://www.geckoterminal.com/solana/pools/7jeRDZ3NYUJty7XPm8sAm6Pa3JsL1ZsdpPHXjpPbZ3UF" },
-        { src:insta_icon, link: "https://www.instagram.com/ppponsolana/" }
+        { src: dextools_icon, link: "" },
+        { src:coingecko_icon, link: "" },
+        { src:insta_icon, link: "" }
     ]).current;
     const [currentbg,setCurrentBg]=useState(0)
     const interval=useRef<any>()
-    const ca=useRef("46e8JxJHrfgkvbzUx65C4rmq46ToX6XEWbb2fknQsTPk").current
+    const ca=useRef("TAB").current
 
     useEffect(()=>{
 
