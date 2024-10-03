@@ -101,11 +101,11 @@
 
     .imageswrapper{
         grid-template-columns: 1fr;
-        gap: 10px;
+        gap: 24px;
     }
     
     .image{
-        width:130px;
+        width:190px;
         border-width: 10px;
     }
 
