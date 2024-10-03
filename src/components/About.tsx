@@ -1,11 +1,13 @@
 import styles from "./About.module.css";
 import image from '../images/About/image.png'
+import banner from '../images/banner.gif'
 
 const About=()=>{
 
     return(
         <section className={styles.mainwrapper} id="section2" data-scroll-to="section2">
             <div className={styles.subwrapper}>
+                <img className={styles.banner} src={banner}/>
                 <div className={styles.image_wrapper}><img src={image} className={styles.image}/></div>
                 <div className={styles.body_wrapper}>
                     <p className={styles.title}>The rise of Vixinu</p>

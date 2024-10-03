@@ -21,7 +21,7 @@ const Memes=()=>{
         <section className={styles.mainwrapper} id="section2" data-scroll-to="section2">
             <div className={styles.subwrapper}>
                 <div className={styles.body}>
-                    {/* <img className={styles.banner} src={banner}/> */}
+                    <img className={styles.banner} src={banner}/>
                     <p className={styles.title}>Memes</p>
                     <div className={styles.imageswrapper}>
                     {
